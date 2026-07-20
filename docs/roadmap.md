@@ -140,7 +140,7 @@ The two legal reviews below remain pending; the fiscal hosting and transparent r
 - Legal review of platform positioning relative to medical device classification
 - Disclaimer and terms of use review with legal counsel
 - **Delivered:** Open Source Collective fiscal hosting approved -- GlycemicGPT is fiscally hosted by Open Source Collective at [opencollective.com/lumose](https://opencollective.com/lumose). All project funds are held by OSC on the project's behalf, with full public transaction history.
-- **Delivered:** Transparent financial reporting via Open Collective -- every donation and expense on the Open Collective channel is published automatically; the project ships a [`funding.json`](https://github.com/GlycemicGPT/GlycemicGPT/blob/main/funding.json) manifest at the repository root for sponsor discovery.
+- **Delivered:** Transparent financial reporting via Open Collective -- every donation and expense on the Open Collective channel is published automatically; the project publishes a [`funding.json`](https://glycemicgpt.org/funding.json) manifest for sponsor discovery.
 
 ---
 
