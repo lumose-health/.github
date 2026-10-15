@@ -39,4 +39,4 @@ GlycemicGPT is a diabetes management platform, so a wrong number shown to a pers
 
 ## Supported Versions
 
-Security fixes are applied to the `develop` branch and released through the normal promotion process (`develop` -> `main`). Only the latest release is supported; please update before reporting an issue that may already be fixed.
+Security fixes ship through each repository's normal release process, described in its contributing guide. Only the latest release is supported -- or, for a repository without releases, its current default branch. Please update before reporting an issue that may already be fixed.
