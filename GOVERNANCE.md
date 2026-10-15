@@ -278,7 +278,7 @@ Security findings are handled automatically by CI (see [the platform repo's secu
 
 - **Suppression decisions** (accepting a known risk) require project lead approval
 - **Security infrastructure changes** (scan workflows, evaluator scripts) require project lead review (enforced via CODEOWNERS)
-- **Vulnerability reports** from external researchers should use the affected repository's Security tab (GitHub private vulnerability reporting), which routes the report to maintainers only
+- **Vulnerability reports** from external researchers follow the [security policy](SECURITY.md): GitHub private vulnerability reporting where the repository has it enabled, or <security@glycemicgpt.org>
 - **Platform-level (GitHub-native) alerts** -- Dependabot alerts and Secret Scanning surface findings in the repo's Security tab. The project lead reviews open alerts weekly; real findings convert to tracked issues and follow the same triage flow as CI findings. See [CONTRIBUTING.md § Security](CONTRIBUTING.md#-security) for the contributor-facing view.
 
 ## Changes to This Document
