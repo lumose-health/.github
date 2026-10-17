@@ -14,6 +14,7 @@
   <a href="https://github.com/GlycemicGPT/GlycemicGPT">Platform</a> &middot;
   <a href="https://github.com/GlycemicGPT/GlycemicGPT/blob/develop/CONTRIBUTING.md">Contribute</a> &middot;
   <a href="https://github.com/GlycemicGPT/GlycemicGPT/discussions">Discussions</a> &middot;
+  <a href="https://github.com/lumose-health/.github/blob/main/SECURITY.md">Security</a> &middot;
   <a href="https://discord.gg/TJKzjsts">Discord</a>
 </p>
 

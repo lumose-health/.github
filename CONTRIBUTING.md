@@ -175,7 +175,7 @@ Why? Because attribution to a tool that can't be held accountable for code quali
 This is a medical platform. We take security seriously across every repository.
 
 - **Never commit** secrets, API keys, tokens, or credentials. CI secret-scanning and GitHub Push Protection are enabled org-wide as a safety net -- but the first line of defense is you.
-- **Report vulnerabilities privately.** Do not open a public issue for a security vulnerability. Use the affected repository's **Security** tab → *Report a vulnerability* (GitHub private vulnerability reporting), which routes the report to maintainers only.
+- **Report vulnerabilities privately.** Do not open a public issue for a security vulnerability. Follow the [security policy](SECURITY.md): use GitHub private vulnerability reporting where the repository has it enabled, or email <security@glycemicgpt.org>.
 - **Security scan findings must be addressed, not ignored.** Each repository's CI runs targeted security tests based on what a PR changes; the per-repo guide documents the specific tools and how to respond to findings.
 - **Every suppression needs a documented reason.** Accepting a known risk (a false positive, an unexploitable dependency CVE) is fine, but the suppression must record *why* and reference the issue that will fix the underlying problem. No reason = no merge. Maintainers review suppressions periodically and remove stale ones.
 
