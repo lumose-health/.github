@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://glycemicgpt.org">Website</a> &middot;
+  <a href="https://lumose.org">Website</a> &middot;
   <a href="https://github.com/GlycemicGPT/GlycemicGPT">Platform</a> &middot;
   <a href="https://github.com/GlycemicGPT/GlycemicGPT/blob/develop/CONTRIBUTING.md">Contribute</a> &middot;
   <a href="https://github.com/GlycemicGPT/GlycemicGPT/discussions">Discussions</a> &middot;
