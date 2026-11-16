@@ -1,12 +1,10 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lumose-health/.github/main/assets/lumose-logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lumose-health/.github/main/assets/lumose-logo-light.svg">
-    <img src="https://raw.githubusercontent.com/lumose-health/.github/main/assets/lumose-logo-light.svg" alt="Lumose" width="140">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lumose-health/.github/main/assets/lumose-logo-icon-text-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lumose-health/.github/main/assets/lumose-logo-icon-text-black.png">
+    <img src="https://raw.githubusercontent.com/lumose-health/.github/main/assets/lumose-logo-icon-text-black.png" alt="Lumose" width="420">
   </picture>
 </p>
-
-<h1 align="center">Lumose</h1>
 
 <p align="center">
   <strong>The open-source AI brain for diabetes.</strong><br/>
